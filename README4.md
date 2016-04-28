@@ -8,3 +8,5 @@ Trying to create a merge conflict
 =======
 Here's another line
 >>>>>>> Stashed changes
+
+Here's a merge conflict
