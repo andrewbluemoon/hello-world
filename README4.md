@@ -10,3 +10,4 @@ Here's another line
 >>>>>>> Stashed changes
 
 Here's a merge conflict
+merge conflict 2
